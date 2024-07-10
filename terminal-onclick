@@ -1,0 +1,7 @@
+echo "# -HOME-bin-termax-url-opener" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Blackout0787/-HOME-bin-termax-url-opener.git
+git push -u origin main
